@@ -3,7 +3,7 @@
 
 -   :computer: Working as a **Security Architect/Engineer**
 -   :construction_worker: Career Path: IBM IT Architect -> IBM Security Consultant -> Sabre Security Analyst -> Sabre Security Architect/Engineer
--   :monocle_face: Interested in helping others, mentoring and prepping people for tech roles/interviews. 
+-   :monocle_face: Interested in helping others, mentoring and successfully prepping people for tech roles/interviews (IBM, Southwest, Citi and more!).
 -   :seedling: Currently learning more **Python**, **Ansible** and **Kubernetes**.
 -   :heart: Self-hosting software (I was able to pivot into cybersecurity easier and attain certs quickly through lessons learned from self-hosting software).
 -   :video_game: Retro gamer and I collect classic consoles/handhelds (70s to early 2000s).
