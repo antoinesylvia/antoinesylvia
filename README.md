@@ -5,7 +5,7 @@
 -   :construction_worker: Career Path: IBM IT Architect -> IBM Security Consultant -> Sabre Security Analyst -> Sabre Security Architect/Engineer
 -   :monocle_face: Interested in helping others, mentoring and prepping people for tech roles/interviews. 
 -   :seedling: Currently learning more **Python**, **Ansible** and **Kubernetes**.
--   :heart: Open Source Software & Self Hosting
+-   :heart: Self Hosting software (I was able to pivot into cybersecurity easier and attain certs quickly through lessons learned self-hosting software).
 -   :video_game: Retro gamer and I collect classic consoles/handhelds (70s to early 2000s).
 -   :point_right: I am from the Boston Area (Brockton) and am the biggest Celtics & Patriots fan in Dallas, Texas.
 -   :basketball: I am 6'8", but don't play basketball for my job (my most FAQ when I'm out).
