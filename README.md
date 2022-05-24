@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=antoinesylvia&color=grey)
 
 -   :computer: Working as **Security Architect/Engineer**
--   :construction_worker: My Career Path: IBM IT Architect -> IBM Security Consultant -> Sabre Security Analyst -> Sabre Security Architect/Engineer
+-   :construction_worker: Career Path: IBM IT Architect -> IBM Security Consultant -> Sabre Security Analyst -> Sabre Security Architect/Engineer
 -   :monocle_face: Interested in helping others, mentoring and prepping people for tech roles/interviews. 
 -   :seedling: Currently learning more **Python**, **Ansible** and **Kubernetes**.
 -   :heart: Open Source Software & Self Hosting
