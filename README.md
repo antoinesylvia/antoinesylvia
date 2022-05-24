@@ -1,9 +1,9 @@
 ![banner](https://github.com/antoinesylvia/antoinesylvia/blob/main/banner.jpg)
 ![](https://komarev.com/ghpvc/?username=antoinesylvia&color=grey)
 
--   :computer: I am working as **Security Engineer**
+-   :computer: I am working as **Security Architect/Engineer** (My Career Path: IBM IT Architect > IBM Security Consultant > Sabre Security Analyst > Sabre Security Architect/Engineer)
 -   :monocle_face: Interested in helping others, mentoring and prepping people for tech roles/interviews. 
--   :seedling: Currently learning more **Python**, **Anisble** and **Kubernetes**.
+-   :seedling: Currently learning more **Python**, **Ansible** and **Kubernetes**.
 -   :heart: Open Source Software & Self Hosting
 -   :video_game: I am a retro gamer and I collect classic consoles/handhelds. 
 -   :point_right: I am from the Boston Area (Brockton) and am the biggest Celtics & Patriots fan in Dallas, Texas.
