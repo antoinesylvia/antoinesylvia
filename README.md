@@ -1,5 +1,6 @@
 ### Hi there 👋
-![](https://github.com/antoinesylvia/antoinesylvia/banner.jpg)  |  ![]([antoinesylvia.jpg](https://github.com/antoinesylvia/antoinesylvia/banner.jpg))
+![](https://github.com/antoinesylvia/antoinesylvia/banner.jpg)  |  ![](https://github.com/antoinesylvia/antoinesylvia/banner.jpg)
+
 
 <!--
 **antoinesylvia/antoinesylvia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
