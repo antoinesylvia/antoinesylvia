@@ -1,5 +1,5 @@
 ![banner](https://github.com/antoinesylvia/antoinesylvia/blob/main/banner.jpg)
-![](https://komarev.com/ghpvc/?username=antoinesylvia&color=grey)
+![](https://komarev.com/ghpvc/?username=antoinesylvia&color=grey) Me at the National Videogame Museum in Frisco, Texas.
 
 -   :computer: Working as a **Security Architect/Engineer**
 -   :construction_worker: Career Path: IBM IT Architect -> IBM Security Consultant -> Sabre Security Analyst -> Sabre Security Architect/Engineer
