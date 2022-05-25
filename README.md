@@ -4,7 +4,7 @@
 -   :computer: Working as a **Security Architect/Engineer**
 -   :construction_worker: Career Path: IBM IT Architect -> IBM Security Consultant -> Sabre Security Analyst -> Sabre Security Architect/Engineer
 -   :monocle_face: Interested in helping others, mentoring and successfully prepping people for tech roles/interviews (IBM, Southwest, Citi and more!).
--   :seedling: Currently learning more **Python**, **Ansible** and **Kubernetes**.
+-   :seedling: Currently learning more **Python**, **Ansible**, **Kubernetes** and Terraform (+Sentinel and Enterprise).
 -   :heart: Self-hosting software (helped me pivot into cybersecurity easier and attain certs quickly through lessons learned from self-hosting software over the years).
 -   :video_game: Retro gamer and collector (classic consoles/handhelds (70s to early 2000s)).
 -   :point_right: Originally from the Boston Area (Brockton), go Celtics and Patriots! I do not miss the snow.
