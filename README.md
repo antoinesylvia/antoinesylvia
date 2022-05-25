@@ -7,7 +7,7 @@
 -   :seedling: Currently learning more **Python**, **Ansible**, **Kubernetes** and Terraform (+Sentinel and Enterprise).
 -   :heart: Self-hosting software (helped me pivot into cybersecurity easier and attain certs quickly through lessons learned from self-hosting software over the years).
 -   :video_game: Retro gamer and collector (classic consoles/handhelds (70s to early 2000s)).
--   :point_right: Originally from the Boston Area (Brockton), go Celtics and Patriots! I do not miss the snow.
+-   :point_right: Originally from the Boston Area (Brockton), go Celtics and Patriots!
 -   :basketball: I am 6'8", but don't play basketball for my job (my most FAQ when I'm out).
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=antoinesylvia&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
