@@ -1,3 +1,4 @@
+![banner0](https://github.com/antoinesylvia/antoinesylvia/blob/main/dallas.PNG)
 ![banner](https://github.com/antoinesylvia/antoinesylvia/blob/main/banner.jpg)
 ![](https://komarev.com/ghpvc/?username=antoinesylvia&color=grey) Hanging out at the National Videogame Museum in Frisco, Texas.
 
