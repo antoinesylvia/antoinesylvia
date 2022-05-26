@@ -8,7 +8,7 @@
 -   :heart: Self-hosting software (helped me pivot into cybersecurity easier and attain certs quickly through lessons learned over the years in my homelab).
 -   :video_game: Retro gamer and collector (classic consoles/handhelds (70s to early 2000s)).
 -   :point_right: Originally from the Boston Area (Brockton), go Celtics and Patriots!
--   :basketball: I am 6'8", but don't play basketball for my job (my most FAQ when I'm out) but I still get some time in when I take my kids to the playgound!
+-   :basketball: I am 6'8", but don't play basketball for my job (my most FAQ when I'm out) but I still get some time in when I take my kids to the playground!
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=antoinesylvia&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoinesylvia&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
