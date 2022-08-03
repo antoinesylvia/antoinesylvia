@@ -6,7 +6,7 @@
 -   :monocle_face: Interested in helping others, mentoring and successfully prepping people for tech roles/interviews (IBM, Southwest, Citi, LinkedIn and more!).
 -   :seedling: Currently learning more **Python**, **Ansible**, **Kubernetes** and Terraform (+Sentinel and Enterprise).
 -   :heart: Self-hosting software (helped me pivot into cybersecurity easier and attain certs quickly through lessons learned over the years in my homelab).
--   :video_game: Retro gamer and collector (classic consoles/handhelds (70s to early 2000s)).
+-   :video_game: Retro gamer and collector (classic consoles/handhelds (70s to early 2000s)). 40+ systems and counting, I'm big into preservation.
 -   :point_right: Originally from the Boston Area (Brockton), go Celtics and Patriots! I miss summer in New England but not definitely not the winter.
 -   :basketball: I am 6'8", but don't play basketball for my job (my most FAQ when I'm out) but I still get some time in when I take my kids to the playground! Still dunking.
 
