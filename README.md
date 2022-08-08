@@ -11,7 +11,7 @@
 
 -   :basketball: I am 6'8", but don't play basketball for my job (my most FAQ when I'm out) but I still get some time in when I take my kids to the playground! Still dunking.
 -   ✈️ My favorite trip thus far was traveling down to Cuba a few years ago, taking in the sights and culture plus learning about one of the largest sneakernets on the planet from the locals (Airbnb host and others), El Paquete Semanal (The Weekly Package). Documentary here: https://www.youtube.com/watch?v=tpegk0V-hEw
--   Another cool thing I was introduced to in Cuba was their home grown mesh network aka SNET (citywide LAN). Few years ago it was rare for private citizens to have internet in their home, many went to wifi hotspots at parks/buildings around Havana and had to pay for 1 hour use at an expensive price. More here covering their network design, equipment, maintenance and purpose to serve the people of Havana: https://www.youtube.com/watch?v=lEplzHraw3c
+-   Another cool thing I was introduced to in Cuba was their home grown mesh network aka SNET (citywide LAN). Few years ago it was rare for private citizens to have internet in their home, many went to wifi hotspots at parks/buildings around Havana and had to pay for 1 hour use at an expensive price. Documentary covering their network design, equipment, maintenance and purpose to serve the people of Havana: https://www.youtube.com/watch?v=lEplzHraw3c
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=antoinesylvia&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoinesylvia&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
