@@ -1,6 +1,12 @@
 ![banner](https://github.com/antoinesylvia/antoinesylvia/blob/main/banner.jpg)
 ![](https://komarev.com/ghpvc/?username=antoinesylvia&color=grey) Hanging out at the National Videogame Museum in Frisco, Texas.
 
+- My Github Projects:
+  * Breaking into Cybersecurity - Document I put together to help others get into cybersecurity, no matter the background or current industry.
+  * Kubernetes Cluster - My K3 cluster featuring many Raspberry Pis (bought used before price explosion), Nvidia Nanos, and old x86/64 Thinkpads collected over the years. The idea here is to scale out my self-hosted web apps (mostly from Awesome Self Hosted list on Github), learn more about distributed computing and implement GitOps (repo config holding the desired state). I share my computing resources with people I mentor and my friends who are security engineers.
+  * Cloud Security Posture Management (CSPM) - Built scripts for a CSPM tool called Prisma Cloud. Added in the ability to do custom RBAC and user onboarding at scale (1000s of users and 1000s of projects) which wasn't native in 2020 and much more (compliance reports, alerts reports, backups etc.). 
+  * Infrastructure as Code - This will just be a dump of my IaC related data without sensitive info. 
+
 -   :point_right: I am originally from the Boston Area ([city of Brockton](https://www.youtube.com/watch?v=icGphpZFYVw&t=1127s)), Celtics and Patriots fan! I miss summer in New England but not definitely not the winter.
 -   :computer: What made me get into IT? When I was a kid, my Dad (Engineer) was always tinkering with electronics, building and coding things on the weekend (back in the DOS days). This sparked my curiosity, when I got to elementary school age, I began building and taking things apart to see how they worked, breaking my Mom's computer (hardware/software) a gazillion times, last one I can recall was an old Compaq Presario desktop that came with a Encarta 95 and Jet Moto CD. I eventually landed in a space where I become the defacto help desk computer guy for my family, friends and neighbors for a range of issues (to this day). Here's a quick link to the building of my homelab/office: https://imgur.com/a/iyYBpIc
 -   :construction_worker: [Career Path](https://www.linkedin.com/in/antoinesylvia/): IBM IT Architect -> IBM Security Consultant -> Sabre Security Analyst -> Sabre Security Architect/Engineer -> ?
