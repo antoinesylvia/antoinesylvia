@@ -13,6 +13,8 @@
 
 # About Me
 
+🇳🇬 🇨🇻 🇺🇸 
+
 -   :point_right: I am originally from the Boston Area ([city of Brockton](https://www.youtube.com/watch?v=icGphpZFYVw&t=1127s)), Celtics and Patriots fan! I miss summer in New England but not definitely not the winter.
 -   :computer: What made me get into IT? When I was a kid, my Dad (Engineer) was always tinkering with electronics, building and coding things on the weekend (back in the DOS days). This sparked my curiosity, when I got to elementary school age, I began building and taking things apart to see how they worked, breaking my Mom's computer (hardware/software) a gazillion times, last one I can recall was an old Compaq Presario desktop that came with a Encarta 95 and Jet Moto CD. I eventually landed in a space where I become the defacto help desk computer guy for my family, friends and neighbors for a range of issues (to this day). Here's a quick link to the building of my homelab/office: https://imgur.com/a/iyYBpIc
 -   :construction_worker: [Career Path](https://www.linkedin.com/in/antoinesylvia/): IBM IT Architect -> IBM Security Consultant -> Sabre Security Analyst -> Sabre Security Architect/Engineer -> ?
