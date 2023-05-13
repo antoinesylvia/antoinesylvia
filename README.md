@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=antoinesylvia&color=grey) Hanging out at the National Videogame Museum in Frisco, Texas.
 
 # My Github Projects
-
+  * [Lego Train Powered Up Automation](https://github.com/antoinesylvia/dfw_metroplex_poweredup_train) - Leverages Pybricks firmware, Lego Distance and Color Sensor and Bluetooth! I had 2 Projects, 1 leverages hub to hub communication to enable 2 locomotives to work together.
 
   * [Kubernetes Cluster](https://github.com/antoinesylvia/Autoplex-Cluster) - My K3 cluster featuring many Raspberry Pis (bought used before price explosion), Nvidia Nanos, and old x86/64 Thinkpads (collected over the years). The idea here is to scale out my self-hosted web apps (mostly from the [Awesome Self Hosted list](https://github.com/awesome-selfhosted/awesome-selfhosted) on Github), learn more about distributed computing and implement GitOps (repo config holding the desired state). I share my computing resources with people I mentor and my friends who are security engineers.
   * [Cloud Security Posture Management (CSPM)](https://github.com/antoinesylvia/pc-toolbox) - Built scripts for a CSPM tool called Prisma Cloud. Added in the ability to do custom RBAC and user onboarding at scale (1000s of users and 1000s of projects) which wasn't native in 2020 and much more (compliance reports, alerts reports, backups etc.). Forked but base project has about 2 scripts remaining out of the 50 I've added, these 2 I will re-write if I ever get some more time. 
