@@ -8,6 +8,7 @@
         <img src="https://github.com/antoinesylvia/dfw_metroplex_poweredup_train/blob/8380397289f0077545aec01b9a945f6d8fc9f5ff/zz_train_demo/outdoor_test.gif" alt="p0">
         <img src="https://github.com/antoinesylvia/dfw_metroplex_poweredup_train/blob/8380397289f0077545aec01b9a945f6d8fc9f5ff/zz_train_demo/project2.gif" alt="p2">
         <img src="https://github.com/antoinesylvia/Autoplex-Cluster/blob/d4fb37e3b035f798cc2736c36e7970e6c38d8f57/hardware_info/lab.gif" alt="p4">
+        <img src="https://github.com/antoinesylvia/Autoplex-Cluster/blob/38b06b70225efc2f4893d820a5fa6f9027be21ac/hardware_info/network.gif" alt="p5">
   
 </div>
 
