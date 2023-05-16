@@ -22,7 +22,8 @@
 
 # About Me
 
-🇳🇬 🇨🇻 🇺🇸 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=antoinesylvia&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoinesylvia&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 -   :point_right: I am originally from the Boston Area ([city of Brockton](https://www.youtube.com/watch?v=icGphpZFYVw&t=1127s)), Celtics and Patriots fan! I miss summer in New England but not definitely not the winter.
 -   :computer: What made me get into IT? When I was a kid, my Dad (Engineer) was always tinkering with electronics, building and coding things on the weekend (back in the DOS days). This sparked my curiosity, when I got to elementary school age, I began building and taking things apart to see how they worked, breaking my Mom's computer (hardware/software) a gazillion times, last one I can recall was an old Compaq Presario desktop that came with a Encarta 95 and Jet Moto CD. I eventually landed in a space where I became the defacto help desk computer guy for my family, friends and neighbors for a range of issues (to this day). Here's a quick link to the building of my homelab/office: https://imgur.com/a/iyYBpIc
@@ -35,8 +36,6 @@
 -   :basketball: I am 6'8", but don't play basketball for my job (my most FAQ when I'm out) but I still get some time in when I take my kids to the playground! Still dunking.
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=antoinesylvia&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoinesylvia&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![banner0](https://github.com/antoinesylvia/antoinesylvia/blob/main/dallas.PNG)
