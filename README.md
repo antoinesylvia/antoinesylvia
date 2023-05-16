@@ -3,7 +3,7 @@
 
 ------------------------------
 <div style="display: flex;">
-    <div style="flex: 1; text-align: left;">
+    <div style="flex: 1; text-align: center;">
         <img src="https://github.com/antoinesylvia/dfw_metroplex_poweredup_train/blob/8380397289f0077545aec01b9a945f6d8fc9f5ff/zz_train_demo/project1.gif" alt="p1">
         <img src="https://github.com/antoinesylvia/dfw_metroplex_poweredup_train/blob/8380397289f0077545aec01b9a945f6d8fc9f5ff/zz_train_demo/outdoor_test.gif" alt="p0">
         <img src="https://github.com/antoinesylvia/dfw_metroplex_poweredup_train/blob/8380397289f0077545aec01b9a945f6d8fc9f5ff/zz_train_demo/project2.gif" alt="p2">
