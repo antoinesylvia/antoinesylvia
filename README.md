@@ -16,7 +16,7 @@
 
 * [Cloud Security Posture Management (CSPM)](https://github.com/antoinesylvia/pc-toolbox) - Originally forked from Palo Alto under MIT. Built scripts for a CSPM tool called Prisma Cloud. Added in the ability to do custom RBAC and user onboarding at scale (1000s of users and 1000s of projects) which wasn't native in 2020 and much more (compliance reports, alerts reports, backups, etc.). Forked but base project has about 2 scripts remaining out of the 50 I've added. Code structure is meant to be generic so users can plug in their own unique identifiers/parameters.
 
-  
+  ![CSPM](https://github.com/antoinesylvia/antoinesylvia/blob/c79f41d952ae252e547172428cb22b1b1f4f171e/z-cspm_.png)
   
 * * * *
 
