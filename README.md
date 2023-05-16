@@ -3,7 +3,7 @@
 
 ------------------------------
 # My Github Projects
-* [Lego Train Powered Up Automation](https://github.com/antoinesylvia/dfw_metroplex_poweredup_train) - Leverages Pybricks firmware, Lego Distance and Color Sensor, and Bluetooth! I have 2 Projects, 1 leverages hub-to-hub communication to enable 2 locomotives to work together. A 3rd project coming this summer (2023) will utilize a Raspberry Pi and a Pi Build Hat for Lego. Demo links are included from my TikTok.
+* [Lego Train Powered Up Automation](https://github.com/antoinesylvia/dfw_metroplex_poweredup_train) - Leverages Pybricks firmware, Lego Distance and Color Sensor, and Bluetooth! I have 2 Projects, 1 leverages hub-to-hub communication to enable 2 locomotives to work together utilizing a beta firmware. A 3rd project coming this summer (2023) will utilize a Raspberry Pi and a Pi Build Hat for Lego. Demo links are included from my TikTok.
 
   ![Lego Train Powered Up Automation - Project 1](https://github.com/antoinesylvia/dfw_metroplex_poweredup_train/blob/8380397289f0077545aec01b9a945f6d8fc9f5ff/zz_train_demo/project1.gif)
   ![Lego Train Powered Up Automation - Outdoor Test](https://github.com/antoinesylvia/dfw_metroplex_poweredup_train/blob/8380397289f0077545aec01b9a945f6d8fc9f5ff/zz_train_demo/outdoor_test.gif)
