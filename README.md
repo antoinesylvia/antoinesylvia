@@ -3,6 +3,9 @@
 
 ------------------------------
 # My Github Projects
+* [Adblock Load Balancer](https://github.com/antoinesylvia/adblock_load_balancer) - Tool to forward raw DNS requests to the PiHole/Adguard with the least load (2+ required). Built for home LAN usage, my agents run on gen 1 Raspberry Pi units which I wanted to make use of as a summer project for 2023. Components here include: Agents (collect and push server usage stats to metrics server), Metrics (collects server usage data from servers and heartbeat info from agents), and Load Balancer (collects data from metrics server, uses this information as a basis to forward raw DNS requests.
+  ![load_balancer](https://raw.githubusercontent.com/antoinesylvia/adblock_load_balancer/main/z_pics/load_balancer.PNG)
+
 * [Lego Train Powered Up Automation](https://github.com/antoinesylvia/dfw_metroplex_poweredup_train) - Leverages Pybricks firmware, Lego Distance and Color Sensor, and Bluetooth! I have 2 Projects, 1 leverages hub-to-hub communication to enable 2 locomotives to work together utilizing a beta firmware. A 3rd project coming this summer (2023) will utilize a Raspberry Pi, Pi Build Hat for Lego and Remote. Demo links are included from my TikTok. This is a project built to support my kids Hotwheels track. 
 
   ![Lego Train Powered Up Automation - Project 1](https://github.com/antoinesylvia/dfw_metroplex_poweredup_train/blob/8380397289f0077545aec01b9a945f6d8fc9f5ff/zz_train_demo/project1.gif)
