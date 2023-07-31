@@ -3,12 +3,7 @@
 
 ------------------------------
 # My Github Projects
-* [Adblock Load Balancer](https://github.com/antoinesylvia/adblock_load_balancer) - Tool to forward raw DNS requests to the PiHole/Adguard with the least load (2+ required). Built for home LAN usage, my agents run on gen 1 Raspberry Pi units which I wanted to make use of as a summer project for 2023. Components here include:
-- Agents script (pushes server usage stats where PiHole/Adguard is installed)
-![agent](https://raw.githubusercontent.com/antoinesylvia/adblock_load_balancer/main/z_pics/agent.PNG)
-- Metrics script (collects real-time server usage information from agents)
-![metrics](https://raw.githubusercontent.com/antoinesylvia/adblock_load_balancer/main/z_pics/metrics.PNG)
-- Load Balancer main script (uses data pulled from metrics to make a decision).
+* [Adblock Load Balancer](https://github.com/antoinesylvia/adblock_load_balancer) - Tool to forward raw DNS requests to the PiHole/Adguard with the least load (2+ required). Built for home LAN usage, my agents run on gen 1 Raspberry Pi units which I wanted to make use of as a summer project for 2023. Components here include: Agents script (pushes server usage stats where PiHole/Adguard is installed), Metrics script (collects real-time server usage information from agents) and Load Balancer main script (uses data pulled from metrics to make a decision):
 ![load_balancer](https://raw.githubusercontent.com/antoinesylvia/adblock_load_balancer/main/z_pics/load_balancer.PNG) 
 
 * [Lego Train Powered Up Automation](https://github.com/antoinesylvia/dfw_metroplex_poweredup_train) - Leverages Pybricks firmware, Lego Distance and Color Sensor, and Bluetooth! I have 2 Projects, 1 leverages hub-to-hub communication to enable 2 locomotives to work together utilizing a beta firmware. A 3rd project coming this summer (2023) will utilize a Raspberry Pi, Pi Build Hat for Lego and Remote. Demo links are included from my TikTok. This is a project built to support my kids Hotwheels track. 
