@@ -37,7 +37,8 @@
 -   :monocle_face: Interested in helping others, mentoring and successfully prepping people for tech roles/interviews (IBM, Southwest, Citi, LinkedIn and more!). I also mentored youth over the course of several years in the Big Brother Big Sister program here in the Dallas area. I like helping people and paying it forward. 
 -   :seedling: Currently learning more **Python**, **Ansible**, **Kubernetes** and Terraform.
 -   :heart: Self-hosting software (helped me pivot into cybersecurity easier, attain certs quickly through lessons learned over the years in my homelab and importance of data privacy). My curated list: https://github.com/antoinesylvia/Autoplex-Cluster/tree/main/general_apps_info
--   :video_game: Retro gamer and collector (classic consoles/handhelds (70s to early 2000s)). 40+ systems and counting, I'm big into preservation.
+-   :video_game: Retro gamer and collector (classic consoles/handhelds (70s to early 2000s)). 
+-   :heart: My kids got me back into the ([diecast world of racing](https://www.tiktok.com/t/ZT8Lj72wy))
 
 -   :basketball: I am 6'8", but don't play basketball for my job (my most FAQ when I'm out) but I still get some time in when I take my kids to the playground! Still dunking.
 
