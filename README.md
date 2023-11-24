@@ -3,6 +3,10 @@
 
 ------------------------------
 # My Github Projects
+
+* [GPT-4 with Vision Analyzer](https://github.com/antoinesylvia/dfw_metroplex_vision_gpt) - CLI utility built with Python which leverages OpenAI's GPT-4 with Vision to get information for your images. I wanted to play around with the new Vision feature that came out of the OpenAI developer day:
+![Vision](https://github.com/antoinesylvia/dfw_metroplex_vision_gpt/blob/bc356d0626113e7fdf89c08d73170c675c8ada94/zzDemo/CLI.png)
+
 * [Adblock Load Balancer](https://github.com/antoinesylvia/adblock_load_balancer) - Tool to forward raw DNS requests to the PiHole/Adguard with the least load (2+ required). Built for home LAN usage, my agents run on gen 1 Raspberry Pi units which I wanted to make use of as a summer project for 2023. Components here include: Agents script (pushes server usage stats where PiHole/Adguard is installed), Metrics script (collects real-time server usage information from agents) and Load Balancer main script (uses data pulled from metrics to make a decision):
 ![load_balancer](https://raw.githubusercontent.com/antoinesylvia/adblock_load_balancer/main/z_pics/load_balancer.PNG) 
 
