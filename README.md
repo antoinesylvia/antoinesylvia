@@ -42,7 +42,7 @@
 -   :seedling: Currently learning more **Python**, **Ansible**, **Kubernetes**, **Terraform** and **ML/AI**.
 -   :heart: Self-hosting software (helped me pivot into cybersecurity easier, attain certs quickly through lessons learned over the years in my homelab and importance of data privacy). My curated list: https://github.com/antoinesylvia/Autoplex-Cluster/tree/main/general_apps_info
 -   :video_game: Retro gamer and collector (classic consoles/handhelds (70s to early 2000s)). 
--   :heart: My kids got me back into the ([diecast world of racing](https://www.tiktok.com/t/ZT8Lj72wy))
+-   :heart: My kids got me back into the world of diecast racing and Lego building.
 
 -   :basketball: I am 6'8", but don't play basketball for my job (my most FAQ when I'm out) but I still get some time in when I take my kids to the playground! Still dunking.
 
