@@ -13,7 +13,7 @@ The system is comprised of:
 - Central Server: Serves as the brain of the operation, handles the coordination and race event state between the start gate, checkpoint gate and finish gate.
 - Audio Manager: Plays various sounds based on race state.
 - Web Control Interface: Ran locally, main dash, race events and configuration options.
-- Measurement of stats per car rolled out in phases:
+- Measurement of stats per car rolled out in 5 parts. We aim to measure and analyze the physical properties of HotWheels cars as they move along the track, from basic speed and energy calculations to advanced physics like force, energy efficiency, and momentum changes. This comprehensive analysis helps us understand the cars' performance, optimize track design, and improve overall race dynamics.
   - Part 1: Basic Measurements
     - Speed: Measure how fast the car moves.
     - Kinetic Energy: Calculate the energy the car possesses due to its motion.
