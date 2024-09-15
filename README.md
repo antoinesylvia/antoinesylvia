@@ -47,6 +47,8 @@ The system is comprised of:
     - Coefficient of Friction: Determine the friction between the car’s wheels and the track.
     - Energy Conversion Efficiency: Calculate the efficiency of converting energy from the start to the finish.
     - Impulse and Momentum Change: Calculate how the car’s momentum changes as it transitions on the track.
+   
+![Texas Heat Raceway Setup](https://github.com/antoinesylvia/Texas_Heat_Raceway/raw/f776e179d2016afa6b6089f81d7a35401d6e4603/zPics/20240816_225454.jpg)
 ---------------------
 * [Adblock Load Balancer](https://github.com/antoinesylvia/adblock_load_balancer) - Tool to forward raw DNS requests to the PiHole/Adguard with the least load (2+ required). Built for home LAN usage, my agents run on gen 1 Raspberry Pi units which I wanted to make use of as a summer project for 2023. Components here include: Agents script (pushes server usage stats where PiHole/Adguard is installed), Metrics script (collects real-time server usage information from agents) and Load Balancer main script (uses data pulled from metrics to make a decision):
 ![load_balancer](https://raw.githubusercontent.com/antoinesylvia/adblock_load_balancer/main/z_pics/load_balancer.PNG) 
