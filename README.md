@@ -4,9 +4,9 @@
 ------------------------------
 # My Github Projects
 
-* [Texas Heat Raceway](https://github.com/antoinesylvia/Texas_Heat_Raceway) - This project currently under development, implements an automated 6 lane racetrack system for diecast vehicles 1/64 scale, featuring real-time race management, result tracking, audio-visual feedback and more. The track operates outdoors under a covered roof in Dallas, Texas. The system is comprised of:
+* [Texas Heat Raceway](https://github.com/antoinesylvia/Texas_Heat_Raceway) - This project currently under development, implements an automated 6 lane racetrack system for diecast vehicles 1/64 scale, featuring real-time race management, result tracking, audio-visual feedback and more. The track operates outdoors under a covered roof in Dallas, Texas. 
 ![Texas Heat Raceway in Action](https://github.com/antoinesylvia/Texas_Heat_Raceway/raw/54fa975025f74245992fad0b8fe581977904259c/zPics/20240816_225830.jpg)
-
+The system is comprised of:
 - Start Gate: Beginning of track, uses Lego motors via a Raspberry Pi Build HAT for automation.
 - Checkpoint Gate: Bottom of the initial launch incline, wtih light sensors, powered via a Raspberry Pi.
 - Finish Gate: End of the track, with light sensors, powered by a Tiny Lenovo ThinkCentre, but can be swapped out for a Pi.
