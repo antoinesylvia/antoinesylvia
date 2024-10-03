@@ -6,7 +6,18 @@
 
 Just a spot where I put projects I've worked on or currently working on. Code and documentation. 
 
+* [Cloud Security Posture Management (CSPM)](https://github.com/antoinesylvia/pc-toolbox) - Originally forked from Palo Alto under MIT. Built scripts for a CSPM tool called Prisma Cloud. Added in the ability to do custom RBAC and user onboarding at scale (1000s of users and 1000s of projects) which wasn't native in 2020 and much more (compliance reports, alerts reports, backups, etc.). Forked but base project has about 2 scripts remaining out of the 50 I've added. Code structure is meant to be generic so users can plug in their own unique identifiers/parameters.
+
+  ![CSPM](https://github.com/antoinesylvia/antoinesylvia/blob/c79f41d952ae252e547172428cb22b1b1f4f171e/z-cspm_.png)
+
 -------------------------
+
+* [Lego Train Powered Up Automation](https://github.com/antoinesylvia/dfw_metroplex_poweredup_train) - Leverages Pybricks firmware, Lego Distance and Color Sensor, and Bluetooth! I have 2 Projects, 1 leverages hub-to-hub communication to enable 2 locomotives to work together utilizing a beta firmware. A 3rd project coming this summer (2023) will utilize a Raspberry Pi, Pi Build Hat for Lego and Remote. Demo links are included from my TikTok. This is a project built to support my kids Hotwheels track. 
+
+  ![Lego Train Powered Up Automation - Project 1](https://github.com/antoinesylvia/dfw_metroplex_poweredup_train/blob/8380397289f0077545aec01b9a945f6d8fc9f5ff/zz_train_demo/project1.gif)
+  ![Lego Train Powered Up Automation - Outdoor Test](https://github.com/antoinesylvia/dfw_metroplex_poweredup_train/blob/8380397289f0077545aec01b9a945f6d8fc9f5ff/zz_train_demo/outdoor_test.gif)
+  ![Lego Train Powered Up Automation - Project 2](https://github.com/antoinesylvia/dfw_metroplex_poweredup_train/blob/8380397289f0077545aec01b9a945f6d8fc9f5ff/zz_train_demo/project2.gif)
+---------------------
 * [Texas Heat Raceway](https://github.com/antoinesylvia/Texas_Heat_Raceway) - This project [currently under development over the next few months], implements an automated 6 lane racetrack system for diecast vehicles 1/64 scale, featuring real-time race management, result tracking, audio-visual feedback and more. The track operates outdoors under a covered roof in Dallas, Texas. My power users for testing are my 3 year old son and 6 year old daughter. 
 ![Texas Heat Raceway in Action](https://github.com/antoinesylvia/Texas_Heat_Raceway/raw/54fa975025f74245992fad0b8fe581977904259c/zPics/20240816_225830.jpg)
 The system is comprised of:
@@ -60,20 +71,12 @@ The system is comprised of:
 * [GPT-4 with Vision Analyzer](https://github.com/antoinesylvia/dfw_metroplex_vision_gpt) - CLI utility built with Python which leverages OpenAI's GPT-4 with Vision to get information for your images. I wanted to play around with the new Vision feature that came out of the OpenAI developer day:
 ![Vision](https://github.com/antoinesylvia/dfw_metroplex_vision_gpt/blob/bc356d0626113e7fdf89c08d73170c675c8ada94/zzDemo/CLI.png)
 ---------------------
-* [Lego Train Powered Up Automation](https://github.com/antoinesylvia/dfw_metroplex_poweredup_train) - Leverages Pybricks firmware, Lego Distance and Color Sensor, and Bluetooth! I have 2 Projects, 1 leverages hub-to-hub communication to enable 2 locomotives to work together utilizing a beta firmware. A 3rd project coming this summer (2023) will utilize a Raspberry Pi, Pi Build Hat for Lego and Remote. Demo links are included from my TikTok. This is a project built to support my kids Hotwheels track. 
-
-  ![Lego Train Powered Up Automation - Project 1](https://github.com/antoinesylvia/dfw_metroplex_poweredup_train/blob/8380397289f0077545aec01b9a945f6d8fc9f5ff/zz_train_demo/project1.gif)
-  ![Lego Train Powered Up Automation - Outdoor Test](https://github.com/antoinesylvia/dfw_metroplex_poweredup_train/blob/8380397289f0077545aec01b9a945f6d8fc9f5ff/zz_train_demo/outdoor_test.gif)
-  ![Lego Train Powered Up Automation - Project 2](https://github.com/antoinesylvia/dfw_metroplex_poweredup_train/blob/8380397289f0077545aec01b9a945f6d8fc9f5ff/zz_train_demo/project2.gif)
----------------------
 * [Kubernetes Cluster](https://github.com/antoinesylvia/Autoplex-Cluster) - My K3 cluster featuring many Raspberry Pis (bought used before the price explosion), Nvidia Nanos, and old x86/64 Thinkpads (collected over the years). The idea here is to scale out my self-hosted web apps (mostly from the [Awesome Self Hosted list](https://github.com/awesome-selfhosted/awesome-selfhosted) on GitHub), learn more about distributed computing, and implement GitOps (repo config holding the desired state). I share my computing resources with people I mentor and my friends who are security engineers.
 
   ![Kubernetes Cluster Hardware Info](https://github.com/antoinesylvia/Autoplex-Cluster/blob/a698782fab9cfef6df0b7fffd59080a50aa8da3a/hardware_info/lab.gif)
   ![Kubernetes Cluster Network](https://github.com/antoinesylvia/Autoplex-Cluster/blob/ab7a396ae3047457d9c3b55385e86922708b22ae/hardware_info/network.gif)
 ---------------------
-* [Cloud Security Posture Management (CSPM)](https://github.com/antoinesylvia/pc-toolbox) - Originally forked from Palo Alto under MIT. Built scripts for a CSPM tool called Prisma Cloud. Added in the ability to do custom RBAC and user onboarding at scale (1000s of users and 1000s of projects) which wasn't native in 2020 and much more (compliance reports, alerts reports, backups, etc.). Forked but base project has about 2 scripts remaining out of the 50 I've added. Code structure is meant to be generic so users can plug in their own unique identifiers/parameters.
 
-  ![CSPM](https://github.com/antoinesylvia/antoinesylvia/blob/c79f41d952ae252e547172428cb22b1b1f4f171e/z-cspm_.png)
   
 * * * *
 
